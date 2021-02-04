@@ -5,8 +5,8 @@
   text-align: center;
   color: black;
   margin: 0 auto;
-  box-shadow: 2px 2px 15px rgba(0,0,0,0.6);
-  transition: 0.3s;
+  box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+  transition: 0.6s;
 }
 
 .card img {
