@@ -36,8 +36,9 @@
 .container h2{
   padding-top: 30px;
   padding-bottom: 18px;
-  text-shadow: 1px 1px 20px rgba(0,0,0,0.3);
-  letter-spacing: 1px;
+  text-shadow: 2px 2px 12px rgba(0,0,0,0.3);
+  letter-spacing: 2px;
+  font-size: 27px;
 }
 
 
