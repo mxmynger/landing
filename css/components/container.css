@@ -1,0 +1,43 @@
+.container {
+  width: 60%;
+  color: white;
+  margin-bottom: 44px;
+  margin: 0 auto;
+}
+
+.container a{
+  background-color: rgba(40, 156, 103, 0.83);
+  color: white;
+  padding: 12px;
+  box-shadow: 2px 2px 15px rgba(0,0,0,0.5);
+  border-radius: 3px;
+  transition: 0.9s;
+  letter-spacing: 0.6px;
+  }
+
+.container a:hover {
+  background-color: rgba(163, 114, 36, 0.78);
+}
+
+.container p {
+  margin-bottom: 36px;
+    font-size: 17px;
+  text-shadow: 3px 3px 18px rgba(0,0,0,0.8);
+  letter-spacing: 0.3px;
+}
+
+.container h1{
+  text-shadow: 3px 3px 18px rgba(0,0,0,0.6);
+  font-size: 40px;
+  letter-spacing: 0.6px;
+  margin-bottom: 24px;
+}
+
+.container h2{
+  padding-top: 30px;
+  padding-bottom: 18px;
+  text-shadow: 1px 1px 20px rgba(0,0,0,0.3);
+  letter-spacing: 1px;
+}
+
+
